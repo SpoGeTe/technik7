@@ -303,9 +303,9 @@ const BAUTEILE = [
   { nr: 3, name: 'Feststellhebel für die Höhenverstellung', x: 858, y: 720 },
   { nr: 4, name: 'Bohrer', x: 646, y: 576 },
   { nr: 5, name: 'Bohrfutter', x: 671, y: 522 },
-  { nr: 6, name: 'Vorschubhebel', x: 784, y: 548 },
+  { nr: 6, name: 'Tiefenanschlag', x: 784, y: 548 },
   { nr: 7, name: 'Elektromotor', x: 816, y: 420 },
-  { nr: 8, name: 'Tiefenanschlag', x: 712, y: 338 },
+  { nr: 8, name: 'Vorschubhebel', x: 712, y: 338 },
   { nr: 9, name: 'An- und Ausschalter', x: 510, y: 392 },
   { nr: 10, name: 'Not-Aus-Schalter', x: 504, y: 345 },
   { nr: 11, name: 'Riemenscheiben (unter der Haube)', x: 850, y: 205 },
@@ -315,8 +315,8 @@ const BAUTEILE = [
 // Bild-Quiz: Welches Bauteil hat diese Aufgabe?
 const BAUTEIL_AUFGABEN = [
   { nr: 10, q: 'Etwas Gefährliches passiert! Welchen Knopf drückst du sofort?' },
-  { nr: 8, q: 'Dein Loch soll genau 15 mm tief werden. Wo stellst du das ein?' },
-  { nr: 6, q: 'Mit welchem Teil senkst du den Bohrer ins Werkstück?' },
+  { nr: 6, q: 'Dein Loch soll genau 15 mm tief werden. Wo stellst du das ein?' },
+  { nr: 8, q: 'Mit welchem Teil senkst du den Bohrer ins Werkstück?' },
   { nr: 5, q: 'Welches Teil hält den Bohrer fest?' },
   { nr: 12, q: 'Worin spannst du dein Werkstück ein, damit es sich nicht mitdreht?' },
   { nr: 3, q: 'Der Bohrtisch hat die richtige Höhe. Womit stellst du ihn fest?' },
